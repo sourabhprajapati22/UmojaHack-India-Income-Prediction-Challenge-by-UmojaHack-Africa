@@ -21,7 +21,7 @@ Based on F1 score
 
 ## Data
 
-https://zindi.africa/competitions/umojahack-india-2022#
+https://zindi.africa/competitions/umojahack-india-2022
 
 # My rank 28 out of 128
 
